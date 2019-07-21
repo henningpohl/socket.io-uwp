@@ -1,0 +1,5 @@
+# Allow committing of built library files
+!Debug/
+!Debug/*.pdb
+!Release/
+!Release/*.pdb

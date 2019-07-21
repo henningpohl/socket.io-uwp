@@ -1,0 +1,3 @@
+[submodule "Chat-Example"]
+	path = Chat-Example
+	url = https://github.com/socketio/chat-example.git
